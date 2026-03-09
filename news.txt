@@ -4,11 +4,11 @@ title: EFT Cheat Release
 description: Our Escape from Tarkov cheat is now live. Features include full ESP with loot, player & corpse filters, silent aimbot with bone selection, speed hack, no recoil and full anti-cheat bypass. Available now for Pro and Elite subscribers.
 
 [2]
-link: https://images.alphacoders.com/133/1332358.jpg
+link: https://tse1.mm.bing.net/th/id/OIP.XIxvCI77HZNREv_z3qa-5AHaEK?rs=1&pid=ImgDetMain&o=7&rm=3
 title: CS2 Module v3.1 Released
 description: Counter-Strike 2 module has been updated to v3.1. Includes improved bone aimbot with FOV lock, radar hack, skin changer, bhop and anti-screenshot. Fully undetected as of today's VAC wave.
 
 [3]
-link: https://images3.alphacoders.com/134/1348624.jpg
+link: https://tse2.mm.bing.net/th/id/OIP.vwy6R7vlS6euBN0X_zVYCgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3
 title: Valorant Support Now in Beta
 description: Valorant cheat enters closed beta. Silent aim, full ESP, recoil script and triggerbot are included. Currently invite-only for Pro and Elite tier users. Public release expected within two weeks.
